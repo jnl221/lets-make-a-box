@@ -1,2 +1,1 @@
-# lets-make-a-box
-page structure practice with HTML and CSS
+This repo will be used to practice some basic HTML and CSS in class.
