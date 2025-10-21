@@ -1,12 +1,8 @@
 body {
   background-color: #cccccc;
 }
-#parent {
+.parent {
   width: 80%;
   background-color: lightblue;
-  border: 1px solid black;
-}
-#child1 {
-  background-color: goldenrod;
   border: 1px solid black;
 }
